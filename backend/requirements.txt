@@ -1,3 +1,5 @@
 FastAPI
 python-dotenv
 psycopg
+SQLAlchemy
+uvicorn
